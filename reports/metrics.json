@@ -1,0 +1,115 @@
+{
+  "train_bursts": 1036,
+  "test_bursts": 849,
+  "test_label_mix": {
+    "password_spray": 13,
+    "normal": 810,
+    "brute_force": 20,
+    "account_compromise": 6
+  },
+  "model": {
+    "normal": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 810
+    },
+    "brute_force": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 20
+    },
+    "password_spray": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 13
+    },
+    "account_compromise": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 6
+    },
+    "attack_vs_normal": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "attacks_total": 39,
+      "attacks_found": 39,
+      "false_alarms": 0
+    }
+  },
+  "rule_baseline": {
+    "normal": {
+      "precision": 0.982,
+      "recall": 1.0,
+      "f1": 0.991,
+      "support": 810
+    },
+    "brute_force": {
+      "precision": 1.0,
+      "recall": 0.3,
+      "f1": 0.462,
+      "support": 20
+    },
+    "password_spray": {
+      "precision": 1.0,
+      "recall": 0.923,
+      "f1": 0.96,
+      "support": 13
+    },
+    "account_compromise": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 6
+    },
+    "attack_vs_normal": {
+      "precision": 1.0,
+      "recall": 0.615,
+      "attacks_total": 39,
+      "attacks_found": 24,
+      "false_alarms": 0
+    }
+  },
+  "real_openssh_sample": {
+    "events_parsed": 2000,
+    "alerts": 8,
+    "by_kind": {
+      "brute_force": 8
+    },
+    "top_sources": [
+      {
+        "ip": "183.62.140.253",
+        "country": "UNKNOWN",
+        "failed": 286,
+        "kind": "brute_force"
+      },
+      {
+        "ip": "112.95.230.3",
+        "country": "UNKNOWN",
+        "failed": 26,
+        "kind": "brute_force"
+      },
+      {
+        "ip": "185.190.58.151",
+        "country": "UNKNOWN",
+        "failed": 17,
+        "kind": "brute_force"
+      },
+      {
+        "ip": "123.235.32.19",
+        "country": "UNKNOWN",
+        "failed": 7,
+        "kind": "brute_force"
+      },
+      {
+        "ip": "119.4.203.64",
+        "country": "UNKNOWN",
+        "failed": 6,
+        "kind": "brute_force"
+      }
+    ]
+  }
+}

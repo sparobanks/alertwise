@@ -1,0 +1,3685 @@
+{
+  "lines": 2185,
+  "events": [
+    {
+      "line": 314,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 315,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 316,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 317,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 320,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 321,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 322,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 323,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 324,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 325,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 326,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 327,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 328,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 329,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 330,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 331,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 332,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 333,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 334,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 335,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 336,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 337,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 338,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 339,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 340,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 341,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 342,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 343,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 344,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 345,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 346,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 347,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 348,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 349,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 350,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 351,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 352,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 353,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 354,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 355,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 356,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 357,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 358,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 359,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 360,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 361,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 362,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 363,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 364,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 365,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 366,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 367,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 368,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 369,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 370,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 371,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 372,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 373,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 374,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 375,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 376,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 377,
+      "incident": 2,
+      "label": "brute_force"
+    },
+    {
+      "line": 380,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 381,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 382,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 383,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 384,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 385,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 386,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 387,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 388,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 389,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 390,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 391,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 392,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 393,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 394,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 395,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 396,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 397,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 398,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 399,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 400,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 401,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 402,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 403,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 404,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 405,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 406,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 407,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 408,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 409,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 410,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 411,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 412,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 413,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 414,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 415,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 416,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 417,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 418,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 419,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 420,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 421,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 422,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 423,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 424,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 425,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 426,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 427,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 428,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 429,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 430,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 431,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 432,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 433,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 434,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 435,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 436,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 437,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 438,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 439,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 440,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 441,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 442,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 443,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 444,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 445,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 446,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 447,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 448,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 449,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 450,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 451,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 452,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 453,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 454,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 455,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 456,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 457,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 458,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 459,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 460,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 461,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 462,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 463,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 464,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 465,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 466,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 467,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 468,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 469,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 470,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 471,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 472,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 473,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 474,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 475,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 476,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 477,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 478,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 479,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 480,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 481,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 482,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 483,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 484,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 485,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 486,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 487,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 488,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 489,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 490,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 491,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 492,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 493,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 494,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 495,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 496,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 497,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 498,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 499,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 500,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 501,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 502,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 503,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 504,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 505,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 506,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 507,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 508,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 509,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 510,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 511,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 512,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 513,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 514,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 515,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 516,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 517,
+      "incident": 1,
+      "label": "account_compromise"
+    },
+    {
+      "line": 772,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 773,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 774,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 775,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 776,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 777,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 778,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 779,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 780,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 781,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 782,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 783,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 784,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 785,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 786,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 787,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 788,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 789,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 790,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 791,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 792,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 793,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 794,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 795,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 796,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 797,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 798,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 799,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 800,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 801,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 802,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 803,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 804,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 805,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 806,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 807,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 808,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 809,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 810,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 811,
+      "incident": 3,
+      "label": "brute_force"
+    },
+    {
+      "line": 866,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 867,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 868,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 869,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 870,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 871,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 872,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 873,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 874,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 875,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 876,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 877,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 878,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 879,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 880,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 881,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 882,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 883,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 884,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 885,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 886,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 887,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 888,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 889,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 890,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 891,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 892,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 893,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 894,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 895,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 896,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 897,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 898,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 899,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 900,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 901,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 902,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 903,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 904,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 905,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 906,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 907,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 908,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 909,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 910,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 911,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 912,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 913,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 914,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 915,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 916,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 917,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 918,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 919,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 920,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 921,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 922,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 923,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 924,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 925,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 926,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 927,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 928,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 929,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 930,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 931,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 932,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 933,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 934,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 935,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 936,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 937,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 938,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 939,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 940,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 941,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 942,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 943,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 944,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 945,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 952,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 953,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 954,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 955,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 956,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 957,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 958,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 959,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 960,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 961,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 962,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 963,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 964,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 965,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 966,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 967,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 968,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 969,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 970,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 971,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 972,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 973,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 974,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 975,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 976,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 977,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 978,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 979,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 980,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 981,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 982,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 983,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 984,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 985,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 986,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 987,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 988,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 989,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 990,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 991,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 992,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 993,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 994,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 995,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 996,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 997,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 998,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 999,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1000,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1001,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1002,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1003,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1004,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1005,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1006,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1007,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1008,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1009,
+      "incident": 4,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1199,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1200,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1201,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1202,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1203,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1204,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1205,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1206,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1207,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1208,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1209,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1210,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1211,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1212,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1213,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1214,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1215,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1216,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1217,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1218,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1219,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1220,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1221,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1222,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1223,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1224,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1225,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1226,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1227,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1228,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1229,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1230,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1231,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1232,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1233,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1234,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1235,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1236,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1237,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1238,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1239,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1240,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1241,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1242,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1243,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1244,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1245,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1246,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1247,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1248,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1249,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1250,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1251,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1252,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1253,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1254,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1255,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1256,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1257,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1258,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1259,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1260,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1261,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1262,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1263,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1264,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1265,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1266,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1267,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1268,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1269,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1270,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1271,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1272,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1273,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1274,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1275,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1276,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1277,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1278,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1279,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1280,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1281,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1282,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1283,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1284,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1285,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1286,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1287,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1288,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1289,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1290,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1291,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1292,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1293,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1294,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1295,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1296,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1297,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1298,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1299,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1300,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1301,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1302,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1303,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1304,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1305,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1306,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1307,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1308,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1309,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1310,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1311,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1312,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1313,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1314,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1315,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1316,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1317,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1318,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1319,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1320,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1321,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1322,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1323,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1324,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1325,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1326,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1327,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1328,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1329,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1330,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1331,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1332,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1333,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1334,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1335,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1336,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1337,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1338,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1339,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1340,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1341,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1342,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1343,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1344,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1345,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1346,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1347,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1348,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1349,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1350,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1351,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1352,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1353,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1354,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1355,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1356,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1357,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1358,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1359,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1360,
+      "incident": 6,
+      "label": "brute_force"
+    },
+    {
+      "line": 1422,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1423,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1424,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1425,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1426,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1427,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1428,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1429,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1430,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1431,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1432,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1433,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1434,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1435,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1436,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1437,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1438,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1439,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1440,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1441,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1442,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1443,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1444,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1445,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1446,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1447,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1448,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1449,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1450,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1451,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1452,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1453,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1454,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1455,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1456,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1457,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1458,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1459,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1460,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1461,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1462,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1463,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1464,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1465,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1466,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1467,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1468,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1469,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1470,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1471,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1472,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1473,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1474,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1475,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1476,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1477,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1478,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1479,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1480,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1481,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1482,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1483,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1484,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1485,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1486,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1487,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1488,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1489,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1490,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1491,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1492,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1493,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1494,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1495,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1496,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1497,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1498,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1499,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1500,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1501,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1502,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1503,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1504,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1505,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1506,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1507,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1508,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1509,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1510,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1511,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1512,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1513,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1514,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1515,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1516,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1517,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1518,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1519,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1520,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1521,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1522,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1523,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1524,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1525,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1526,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1527,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1528,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1529,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1530,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1531,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1532,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1533,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1534,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1535,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1536,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1537,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1538,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1539,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1540,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1541,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1542,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1543,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1544,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1545,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1546,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1547,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1548,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1549,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1550,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1551,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1552,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1553,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1554,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1555,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1556,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1557,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1558,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1559,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1560,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1561,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1562,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1563,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1564,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1565,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1566,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1567,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1568,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1569,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1570,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1571,
+      "incident": 5,
+      "label": "account_compromise"
+    },
+    {
+      "line": 1657,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1658,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1659,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1660,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1661,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1662,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1663,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1664,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1665,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1666,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1667,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1668,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1669,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1670,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1671,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1672,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1673,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1674,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1675,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1676,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1677,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1678,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1679,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1680,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1681,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1682,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1683,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1684,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1685,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1686,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1687,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1688,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1689,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1690,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1691,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1692,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1693,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1694,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1695,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1696,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1697,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1698,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1699,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1700,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1701,
+      "incident": 7,
+      "label": "brute_force"
+    },
+    {
+      "line": 1702,
+      "incident": 7,
+      "label": "brute_force"
+    }
+  ]
+}

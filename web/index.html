@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AlertWise</title>
+<style>
+  :root{--ink:#1d2321;--muted:#5d6763;--line:#dde2df;--bg:#f6f8f7;--card:#fff;
+        --high:#b4232a;--med:#b5730f;--none:#3a7d44;--brand:#1f5fa8}
+  *{box-sizing:border-box}
+  body{margin:0;font:15px/1.5 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;color:var(--ink);background:var(--bg)}
+  header{background:var(--ink);color:#fff;padding:14px 18px;display:flex;align-items:center;gap:10px}
+  header b{font-size:17px}
+  header span{color:#b7c0bb;font-size:13px}
+  main{max-width:900px;margin:0 auto;padding:18px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px;margin:12px 0}
+  label{display:block;font-size:13px;color:var(--muted);margin:8px 0 4px}
+  input{width:100%;padding:9px 11px;border:1px solid var(--line);border-radius:7px;font-size:15px}
+  button{background:var(--brand);color:#fff;border:0;border-radius:7px;padding:9px 16px;font-size:15px;cursor:pointer}
+  button:hover{filter:brightness(1.07)}
+  .row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+  .tag{font-size:12px;font-weight:600;padding:2px 9px;border-radius:999px;color:#fff;text-transform:uppercase;letter-spacing:.02em}
+  .tag.high{background:var(--high)}.tag.medium{background:var(--med)}.tag.none{background:var(--none)}
+  .alert{border-left:4px solid var(--line);cursor:pointer}
+  .alert.high{border-left-color:var(--high)}.alert.medium{border-left-color:var(--med)}
+  .alert h3{margin:.1em 0 .3em;font-size:16px}
+  .meta{color:var(--muted);font-size:13px}
+  .detail{margin-top:12px;border-top:1px dashed var(--line);padding-top:12px;display:none}
+  .detail h4{margin:.4em 0 .2em;font-size:13px;color:var(--muted);text-transform:uppercase;letter-spacing:.03em}
+  .hide{display:none}.by{font-size:12px;color:var(--muted)}
+  .err{color:var(--high);font-size:14px;margin-top:8px}
+</style>
+</head>
+<body>
+<header><b>AlertWise</b><span>security alerts, explained in plain English</span></header>
+<main>
+  <div id="loginCard" class="card">
+    <h2 style="margin-top:0">Sign in</h2>
+    <label for="u">Username</label><input id="u" value="analyst" autocomplete="username">
+    <label for="p">Password</label><input id="p" type="password" value="alertwise" autocomplete="current-password">
+    <div style="margin-top:12px"><button onclick="login()">Sign in</button></div>
+    <div id="loginErr" class="err"></div>
+  </div>
+
+  <div id="app" class="hide">
+    <div class="row" style="justify-content:space-between">
+      <div class="meta">Scored by: <b id="scorer"></b> · <span id="count"></span></div>
+      <button onclick="logout()" style="background:#5d6763">Sign out</button>
+    </div>
+    <div id="list"></div>
+  </div>
+</main>
+<script>
+let TOKEN = null;
+const sev = s => `<span class="tag ${s}">${s==='none'?'info':s}</span>`;
+async function login(){
+  document.getElementById('loginErr').textContent='';
+  const r = await fetch('login',{method:'POST',headers:{'Content-Type':'application/json'},
+    body:JSON.stringify({username:u.value,password:p.value})});
+  if(!r.ok){document.getElementById('loginErr').textContent='Wrong username or password.';return;}
+  TOKEN=(await r.json()).token;
+  document.getElementById('loginCard').classList.add('hide');
+  document.getElementById('app').classList.remove('hide');
+  loadAlerts();
+}
+function logout(){TOKEN=null;location.reload();}
+async function loadAlerts(){
+  const r = await fetch('alerts',{headers:{Authorization:'Bearer '+TOKEN}});
+  const d = await r.json();
+  document.getElementById('scorer').textContent = d.scorer==='model'?'machine learning model':'rule baseline';
+  document.getElementById('count').textContent = d.count+' alert'+(d.count===1?'':'s');
+  const list = document.getElementById('list'); list.innerHTML='';
+  d.alerts.forEach((a,i)=>{
+    const el = document.createElement('div');
+    el.className='card alert '+a.severity;
+    el.innerHTML = `<div class="row" style="justify-content:space-between">
+        <h3>${a.title}</h3>${sev(a.severity)}</div>
+      <div class="meta">From ${a.source_ip} (${a.country}) · ${a.failed_attempts} failed attempts ·
+        ${a.different_usernames} username(s) · ${a.span_minutes} min</div>
+      <div class="detail" id="d${i}"></div>`;
+    el.onclick = ()=>toggle(i);
+    list.appendChild(el);
+  });
+}
+async function toggle(i){
+  const box = document.getElementById('d'+i);
+  if(box.style.display==='block'){box.style.display='none';return;}
+  const r = await fetch('alerts/'+i,{headers:{Authorization:'Bearer '+TOKEN}});
+  const a = await r.json();
+  box.innerHTML = `<h4>For the IT team</h4><div>${a.technical}</div>
+    <h4>For a manager</h4><div>${a.manager}</div>
+    <div class="by">Written by: ${a.written_by==='llm'?'language model (checked)':'built-in template'} ·
+      grounded in the alert's own numbers: ${a.grounded?'yes':'no'}</div>`;
+  box.style.display='block';
+}
+</script>
+</body>
+</html>
